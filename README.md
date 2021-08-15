@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bahhw
 - 👀 I’m interested in JavaScript, Python and HTML!
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning HTML.
 
 <!---
 bahhw/bahhw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
